@@ -21,3 +21,4 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/vendor\n/node_modules\n.env\n/storage/*.key\n/public/storage
